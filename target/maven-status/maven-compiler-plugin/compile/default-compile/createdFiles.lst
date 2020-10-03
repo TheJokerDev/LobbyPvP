@@ -1,0 +1,10 @@
+me\thejokerdev\lobbypvp\kit\Kit.class
+me\thejokerdev\lobbypvp\utils\PvPPlayer.class
+me\thejokerdev\lobbypvp\utils\Utils.class
+me\thejokerdev\lobbypvp\Main.class
+me\thejokerdev\lobbypvp\commands\PvPCommand.class
+me\thejokerdev\lobbypvp\commands\PvPCommand$1.class
+me\thejokerdev\lobbypvp\utils\ItemBuilder.class
+me\thejokerdev\lobbypvp\utils\FileUtil.class
+me\thejokerdev\lobbypvp\listener\PlayerListener.class
+me\thejokerdev\lobbypvp\kit\KitManager.class

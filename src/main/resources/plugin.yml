@@ -1,0 +1,13 @@
+name: LobbyPvP
+version: ${project.version}
+main: me.thejokerdev.lobbypvp.Main
+api-version: 1.16
+prefix: LobbyPvP
+authors: [ TheJokerDev ]
+description: PvP Plugin for Lobbies
+website: github.com/TheJokerDev
+
+commands:
+  pvp:
+    usage: /pvp
+    description: Comando para entrar a una zona pvp.
